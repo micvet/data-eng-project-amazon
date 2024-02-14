@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/micvet/data-eng-project-amazon/main/data/def_area_2004_2019.csv
+
+https://raw.githubusercontent.com/micvet/data-eng-project-amazon/main/data/el_nino_la_nina_1999_2019.csv
+
+https://raw.githubusercontent.com/micvet/data-eng-project-amazon/main/data/inpe_brazilian_amazon_fires_1999_2019.csv
